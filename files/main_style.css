@@ -542,7 +542,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 #wsite-com-category-product-group .category__image-sale-banner-wrapper {background: #666666;}
 #wsite-search-product-results .wsite-search-product-result .wsite-search-product-image-container .search__image-sale-banner-wrapper {background: #666666;}
 .navbar {
-    background-color: #fc0067;
+    background-color: #fafafa;
     padding: 10px;
     text-align: center;
   }
@@ -558,7 +558,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   }
   
   .navbar a {
-    color: white;
+    color: rgb(0, 0, 0);
     text-decoration: none;
     font-weight: bold;
   }

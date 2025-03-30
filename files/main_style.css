@@ -543,8 +543,8 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
 #wsite-search-product-results .wsite-search-product-result .wsite-search-product-image-container .search__image-sale-banner-wrapper {background: #666666;}
 .navbar {
     background-color: #fafafa;
-    padding: 10px;
-    text-align: center;
+    padding: 20px;
+    text-align: left;
   }
   
   .navbar ul {
@@ -554,7 +554,7 @@ div.paragraph ol, div.paragraph ol li { list-style: decimal outside !important; 
   
   .navbar li {
     display: inline;
-    margin: 0 15px;
+    margin: 0 25px;
   }
   
   .navbar a {
